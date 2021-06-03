@@ -13,3 +13,6 @@ https://github.com/hadikazemi/Sketch-Photo-Synthesis
 
 SketchEmbedNet: Learning Novel Concepts by Imitating Drawings, ICML2021
 https://arxiv.org/abs/2009.04806
+
+Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches,CVPR2021
+https://arxiv.org/abs/2105.06663
