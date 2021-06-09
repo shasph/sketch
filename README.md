@@ -16,3 +16,12 @@ https://arxiv.org/abs/2009.04806
 
 Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches,CVPR2021
 https://arxiv.org/abs/2105.06663
+
+
+
+sketch drawing
+Constructing Embodied Algebra by Sketching, CHI2021
+https://dl.acm.org/doi/10.1145/3411764.3445460
+
+MathPad2: a system for the creation and exploration of mathematical sketches, TOG2014
+https://dl.acm.org/doi/10.1145/1015706.1015741
